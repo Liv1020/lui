@@ -1,10 +1,13 @@
 {
-    "name": "liv/lui",
-    "description": "A php ui helper",
-    "authors": [
-        {
-            "name": "Liv",
-            "email": "523260513@qq.com"
-        }
-    ]
+  "name": "liv/lui",
+  "description": "A php ui helper",
+  "authors": [
+    {
+      "name": "Liv",
+      "email": "523260513@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"lui\\": ""}
+  }
 }
